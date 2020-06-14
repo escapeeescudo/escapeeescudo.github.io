@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/static/css/main.5e8e5382.chunk.css",
-    "main.js": "/static/js/main.17f6b564.chunk.js",
+    "main.js": "/static/js/main.d17dc047.chunk.js",
     "runtime-main.js": "/static/js/runtime-main.1072ffe1.js",
-    "static/js/2.ec38f3a1.chunk.js": "/static/js/2.ec38f3a1.chunk.js",
+    "static/js/2.91610aff.chunk.js": "/static/js/2.91610aff.chunk.js",
     "index.html": "/index.html",
-    "precache-manifest.37b656e8d89b0df9ac81cd6f81f53d4c.js": "/precache-manifest.37b656e8d89b0df9ac81cd6f81f53d4c.js",
+    "precache-manifest.c125739bd80e40db42469a878c45406d.js": "/precache-manifest.c125739bd80e40db42469a878c45406d.js",
     "service-worker.js": "/service-worker.js",
-    "static/js/2.ec38f3a1.chunk.js.LICENSE.txt": "/static/js/2.ec38f3a1.chunk.js.LICENSE.txt",
+    "static/js/2.91610aff.chunk.js.LICENSE.txt": "/static/js/2.91610aff.chunk.js.LICENSE.txt",
     "static/media/behance.svg": "/static/media/behance.1967bd6c.svg",
     "static/media/facebook.svg": "/static/media/facebook.e917de26.svg",
     "static/media/instagram.svg": "/static/media/instagram.15bc5470.svg",
@@ -15,8 +15,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.1072ffe1.js",
-    "static/js/2.ec38f3a1.chunk.js",
+    "static/js/2.91610aff.chunk.js",
     "static/css/main.5e8e5382.chunk.css",
-    "static/js/main.17f6b564.chunk.js"
+    "static/js/main.d17dc047.chunk.js"
   ]
 }
